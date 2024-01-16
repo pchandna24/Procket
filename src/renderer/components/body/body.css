@@ -1,0 +1,12 @@
+.test {
+    width: 1000px;
+    height: 800px;
+    border-radius: 1px;
+    border-color: black;
+    top: 0;
+    color: #818181;
+}
+
+.test2 {
+    left: 10px
+}
