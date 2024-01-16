@@ -21,13 +21,13 @@ Procket is an open-source tool designed to test WebSocket connections interactin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/pchandna24/procket.git
+    git clone https://github.com/pchandna24/Procket.git
     ```
 
 2. Change directory:
 
     ```bash
-    cd procket
+    cd Procket
     ```
 
 3. Install dependencies:
