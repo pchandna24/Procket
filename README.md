@@ -70,9 +70,6 @@ If you want to contribute or extend Procket, follow these steps:
 
 4. Make your changes and create a pull request.
 
-## License 📝
-
-Procket is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments 👏
 
